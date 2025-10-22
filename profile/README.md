@@ -17,7 +17,7 @@ Learn with our curated workshops:
 |----------|------|
 | Intro to Bioinformatics | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024) |
 | Intro to Bulk RNA-Seq Primary Data Analysis | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Primary-Data-Analysis-workshop-June-2022) |
-| Intro to Bulk RNA-Seq Differential Expression Analysis | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Differential-Expression-workshop-June-2022) |
+| Intro to Bulk RNA-Seq Downstream Analysis | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Differential-Expression-workshop-June-2022) |
 
 ---
 
@@ -28,7 +28,8 @@ Explore our reproducible bioinformatics pipelines:
 | Pipeline | Link |
 |----------|------|
 | Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
-| Google cloud access| [Github](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess)|
+| Clover-Seq (tRNA-Seq) | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) |
+| Google cloud access| [Github](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess) |
 
 ---
 
@@ -40,4 +41,5 @@ Explore our reproducible bioinformatics pipelines:
 ---
 
 > *Empowering Dartmouth researchers with state-of-the-art genomics analysis tools and training.*
+
 
