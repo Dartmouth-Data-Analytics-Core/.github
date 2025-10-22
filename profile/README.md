@@ -28,6 +28,7 @@ Explore our reproducible bioinformatics pipelines:
 | Pipeline | Link |
 |----------|------|
 | Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
+| Google cloud access| [Github](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess)|
 
 ---
 
@@ -39,3 +40,4 @@ Explore our reproducible bioinformatics pipelines:
 ---
 
 > *Empowering Dartmouth researchers with state-of-the-art genomics analysis tools and training.*
+
