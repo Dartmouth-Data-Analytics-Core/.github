@@ -46,6 +46,8 @@ Explore our reproducible bioinformatics pipelines:
 
 - [Contact Us](mailto:GDSC@groups.dartmouth.edu)
 - [CQB Website](https://sites.dartmouth.edu/cqb/projects-and-cores/genomic-data-sciences/)
+- [GDSC Projects](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects)
+
 
 
 
