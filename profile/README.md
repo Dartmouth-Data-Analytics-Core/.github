@@ -1,8 +1,13 @@
-# Welcome to the Dartmouth Data Analytics Core <img src="img/cqb_logo.jpg" width="160" height="90" alt="CQB Logo">
+<div align="center">
+
+# Welcome to the Dartmouth Genomic Data Science Core  
+<img src="img/cqb_logo.jpg" width="160" height="90" alt="CQB Logo">
+
+*Bringing Biology and Bioinformatics Together*
+
+</div>
 
 The **GDSC** aims to facilitate advanced bioinformatic, computational, and statistical analysis of complex genomics data for the Dartmouth research community.  
-
-
 
 
 <table>
@@ -37,10 +42,11 @@ Explore our reproducible bioinformatics pipelines:
 </tr>
 </table>
 
-## 🌟 Quick Links
+## 🔗 Quick Links
 
 - [Contact Us](mailto:GDSC@groups.dartmouth.edu)
-- [CQB Website](https://sites.dartmouth.edu/cqb/)
+- [CQB Website](https://sites.dartmouth.edu/cqb/projects-and-cores/genomic-data-sciences/)
+
 
 
 
