@@ -19,6 +19,7 @@ Learn with our curated workshops:
 | Intro to Bulk RNA-Seq Primary Data Analysis | [Workshop](https://dartmouth-data-analytics-core.github.io/RNA-seq-Primary-Data-Analysis-workshop-June-2022/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Primary-Data-Analysis-workshop-June-2022) |
 | Intro to Bulk RNA-Seq Downstream Analysis | [Workshop](https://dartmouth-data-analytics-core.github.io/RNA-seq-Differential-Expression-workshop-June-2022/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Differential-Expression-workshop-June-2022) |
 | Google cloud access | | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess) |
+| Cheat Sheets | | [Github](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
 
 </td>
 <td valign="top">
@@ -40,6 +41,7 @@ Explore our reproducible bioinformatics pipelines:
 
 - [Contact Us](mailto:GDSC@groups.dartmouth.edu)
 - [CQB Website](https://sites.dartmouth.edu/cqb/)
+
 
 
 
