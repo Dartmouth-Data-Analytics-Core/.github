@@ -26,6 +26,7 @@ Learn with our curated workshops:
 | Google cloud access | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess) |
 | Cheat Sheets | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
 | Pixi Package Management | [Docs](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP/wiki) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) |
+| GEO file submission management | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) |
 
 </td>
 <td valign="top">
@@ -48,6 +49,7 @@ Explore our reproducible bioinformatics pipelines:
 - [Contact Us](mailto:GDSC@groups.dartmouth.edu)
 - [CQB Website](https://sites.dartmouth.edu/cqb/projects-and-cores/genomic-data-sciences/)
 - [GDSC Projects](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects)
+
 
 
 
