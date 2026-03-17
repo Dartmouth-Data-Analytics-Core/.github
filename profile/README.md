@@ -24,9 +24,12 @@ Learn with our curated workshops:
 | Intro to Bulk RNA-Seq Primary Data Analysis | [Workshop](https://dartmouth-data-analytics-core.github.io/RNA-seq-Primary-Data-Analysis-workshop-June-2022/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Primary-Data-Analysis-workshop-June-2022) |
 | Intro to Bulk RNA-Seq Downstream Analysis | [Workshop](https://dartmouth-data-analytics-core.github.io/RNA-seq-Differential-Expression-workshop-June-2022/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Differential-Expression-workshop-June-2022) |
 | Google cloud access | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess) |
-| Cheat Sheets | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
 | Pixi Package Management | [Docs](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP/wiki) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) |
+| Genomic reference files | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Genome-References) |
 | GEO file submission management | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) |
+| Cheat Sheets | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
+
+
 
 </td>
 <td valign="top">
