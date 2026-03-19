@@ -16,7 +16,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 ## 🎓 Training Materials
 
-Learn with our curated workshops:
+Learn with our curated workshops, cheat sheets, and training materials:
 
 | Workshop | Website| Repo |
 |----------|--------|------|
@@ -34,14 +34,17 @@ Learn with our curated workshops:
 </td>
 <td valign="top">
 
-## 🛠 Pipelines
+## 🛠 Tools and Workflows
 
 Explore our reproducible bioinformatics pipelines:
 
 | Pipeline | Link |
 |----------|------|
 | Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
+| miRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) |
 | Clover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) |
+| RGenEDA (Exploratory Data Analysis) | [GitHub](https://github.com/mikemartinez99/RGenEDA) |
+
 
 </td>
 </tr>
