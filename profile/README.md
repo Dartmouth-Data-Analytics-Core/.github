@@ -41,7 +41,7 @@ Explore our reproducible bioinformatics pipelines:
 | Tool/Workflow | Link |
 |----------|------|
 | Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
-| miRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline/tree/dev-isomir) |
+| miRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline/tree/devlopment) |
 | Clover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) |
 | RGenEDA (Exploratory Data Analysis) | [GitHub](https://github.com/mikemartinez99/RGenEDA) |
 | Prebuilt Pixi Workspaces | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces)
