@@ -28,6 +28,7 @@ Learn with our curated workshops, cheat sheets, and training materials:
 | Genomic reference files | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Genome-References) |
 | GEO file submission management | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) |
 | Cheat Sheets | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
+| Example pre-processing reports | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Example_Preprocessing_Reports) |
 
 
 
