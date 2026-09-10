@@ -9,6 +9,29 @@
 
 The **GDSC** aims to facilitate advanced bioinformatic, computational, and statistical analysis of complex genomics data for the Dartmouth research community.  
 
+<table>
+<tr>
+<td valign="top">
+
+## 🛠 Tools and Workflows
+
+Explore our reproducible bioinformatics pipelines:
+
+| Tool/Workflow | Link |
+|----------|------|
+| Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
+| miRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline/tree/devlopment) |
+| Metagenomics- biobakery | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) |
+| Clover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) |
+| scClover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq/blob/main) |
+| RGenEDA (Exploratory Data Analysis) | [GitHub](https://github.com/mikemartinez99/RGenEDA) |
+| Pa Accuracy Score Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pa-AccuracyScore-Pipeline) |
+| Prebuilt Pixi Workspaces | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces)
+
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -29,27 +52,6 @@ Learn with our curated workshops, cheat sheets, and training materials:
 | GEO file submission management | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) |
 | Cheat Sheets | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
 | Example pre-processing reports | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Example_Preprocessing_Reports) |
-
-
-
-</td>
-<td valign="top">
-
-## 🛠 Tools and Workflows
-
-Explore our reproducible bioinformatics pipelines:
-
-| Tool/Workflow | Link |
-|----------|------|
-| Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
-| miRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline/tree/devlopment) |
-| Metagenomics- biobakery | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) |
-| Clover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) |
-| scClover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq/blob/main) |
-| RGenEDA (Exploratory Data Analysis) | [GitHub](https://github.com/mikemartinez99/RGenEDA) |
-| Pa Accuracy Score Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pa-AccuracyScore-Pipeline) |
-| Prebuilt Pixi Workspaces | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces)
-
 
 </td>
 </tr>
