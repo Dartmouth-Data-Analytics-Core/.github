@@ -30,7 +30,7 @@
 
 - [RGenEDA](https://github.com/mikemartinez99/RGenEDA): exploratory data analysis for genomics data in R
 - [Prebuilt Pixi Workspaces](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces): ready-to-use Pixi environments
-- [Genomic Reference Files](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Genome-References): reference genomes and annotations used by our pipelines
+- [Genomic Reference Files](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Genome-References): reference genomes and annotations used by our pipelines
 
 ### 🎓 Workshops
 
