@@ -1,77 +1,49 @@
 <div align="center">
 
-# Welcome to the Dartmouth Genomic Data Science Core  
-<img src="img/cqb_logo.jpg" width="160" height="90" alt="CQB Logo">
+<img src="img/cqb_logo.jpg" width="160" alt="CQB Logo">
+
+# Dartmouth Genomic Data Science Core
+**The **GDSC** supports bioinformatic, computational, and statistical analysis of genomics data for the Dartmouth research community.**
 
 *Bringing Biology and Bioinformatics Together*
 
+[Contact Us](mailto:GDSC@groups.dartmouth.edu) · [CQB Website](https://sites.dartmouth.edu/cqb/projects-and-cores/genomic-data-sciences/) · [GDSC Projects](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects)
+
+
+
 </div>
 
-The **GDSC** aims to facilitate advanced bioinformatic, computational, and statistical analysis of complex genomics data for the Dartmouth research community.  
-
-<table>
-<tr>
-<td valign="top">
-
-## 🛠 Tools and Workflows
-
-Explore our reproducible bioinformatics pipelines:
-
-| Tool/Workflow | Link |
-|----------|------|
-| Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) |
-| miRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) |
-| Metagenomics- biobakery | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) |
-| Clover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq/tree/main) |
-| scClover-Seq (tRNA-Seq) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq/blob/main) |
-| RGenEDA (Exploratory Data Analysis) | [GitHub](https://github.com/mikemartinez99/RGenEDA) |
-| Pa Accuracy Score Bulk RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pa-AccuracyScore-Pipeline) |
-| Prebuilt Pixi Workspaces | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces)
 
 
-</td>
-</tr>
-</table>
+### ⚙️ Pipelines
 
-<table>
-<tr>
-<td valign="top">
+| Pipeline | Data type |
+|----------|-----------|
+| [DAC-RNAseq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) | Bulk RNA-seq |
+| [GDSC-miRNAseq-analysis-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | miRNA-seq |
+| [GDSC-clover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | tRNA-seq (Clover-seq) |
+| [GDSC-scClover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq) | Single-cell tRNA-seq (scClover-seq) |
+| [GDSC-Biobakery-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) | Metagenomics (bioBakery) |
+| [GDSC-Pa-AccuracyScore-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pa-AccuracyScore-Pipeline) | Bulk RNA-seq (Pa accuracy score) |
 
-## 🎓 Training Materials
+### 🛠️ Tools and Environments
 
-Learn with our curated workshops, cheat sheets, and training materials:
+- [RGenEDA](https://github.com/mikemartinez99/RGenEDA): exploratory data analysis for genomics data in R
+- [Prebuilt Pixi Workspaces](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces): ready-to-use Pixi environments
+- [Genomic Reference Files](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Genome-References): reference genomes and annotations used by our pipelines
 
-| Workshop | Website| Repo |
-|----------|--------|------|
-| Intro to Bioinformatics | [Workshop](https://dartmouth-data-analytics-core.github.io/Bioinformatics_workshop-2024/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024) |
-| Intro to Bulk RNA-Seq Primary Data Analysis | [Workshop](https://dartmouth-data-analytics-core.github.io/RNA-seq-Primary-Data-Analysis-workshop-June-2022/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Primary-Data-Analysis-workshop-June-2022) |
-| Intro to Bulk RNA-Seq Downstream Analysis | [Workshop](https://dartmouth-data-analytics-core.github.io/RNA-seq-Differential-Expression-workshop-June-2022/) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Differential-Expression-workshop-June-2022) |
-| Google cloud access | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess) |
-| Pixi Package Management | [Docs](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP/wiki) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) |
-| Genomic reference files | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Genome-References) |
-| GEO file submission management | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) |
-| Cheat Sheets | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md) |
-| Example pre-processing reports | | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Example_Preprocessing_Reports) |
+### 🎓 Workshops
 
-</td>
-</tr>
-</table>
+| Workshop | Materials |
+|----------|-----------|
+| Intro to Bioinformatics | [Website](https://dartmouth-data-analytics-core.github.io/Bioinformatics_workshop-2024/) · [Repo](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024) |
+| Bulk RNA-seq: Primary Data Analysis | [Website](https://dartmouth-data-analytics-core.github.io/RNA-seq-Primary-Data-Analysis-workshop-June-2022/) · [Repo](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Primary-Data-Analysis-workshop-June-2022) |
+| Bulk RNA-seq: Downstream Analysis | [Website](https://dartmouth-data-analytics-core.github.io/RNA-seq-Differential-Expression-workshop-June-2022/) · [Repo](https://github.com/Dartmouth-Data-Analytics-Core/RNA-seq-Differential-Expression-workshop-June-2022) |
 
-## 🔗 Quick Links
+### 📚 Guides and Resources
 
-- [Contact Us](mailto:GDSC@groups.dartmouth.edu)
-- [CQB Website](https://sites.dartmouth.edu/cqb/projects-and-cores/genomic-data-sciences/)
-- [GDSC Projects](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects)
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Pixi Package Management SOP](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP/wiki) ([repo](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP))
+- [Google Cloud Access](https://github.com/Dartmouth-Data-Analytics-Core/GoogleCloudAccess)
+- [GEO Submission File Management](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management)
+- [Cheat Sheets](https://github.com/Dartmouth-Data-Analytics-Core/Bioinformatics_workshop-2024/blob/main/cheat-sheets.md)
+- [Example Pre-processing Reports](https://github.com/Dartmouth-Data-Analytics-Core/Example_Preprocessing_Reports)
